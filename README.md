@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Matas.<br>I am currently studying at Vilnius Kolegija.<br>I am learning programming.<br>I have also done my own projects, from simple websites to difficult back-end tasks.<br>In my spare time, I mess around with code and experiment with new ideas.
+Hi, my name is Matas.<br>I am currently studying at Vilnius Kolegija.<br>I am learning programming.<br>I have also done my own projects, from simple websites to back-end tasks.<br>In my spare time, I mess around with code and experiment with new ideas.
 
 
 ## 🌐 Socials:
