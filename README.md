@@ -1,5 +1,4 @@
-# About Me:
-Hi, my name is Matas Štrimaitis.<br>I am currently studying at Vilnius College.<br>I am learning programming.<br>I have also done many of my own projects, from simple websites to back-end tasks.<br>In my spare time, I mess around with code and experiment with new ideas.
+## "It’s not a bug—it’s an undocumented feature."
 
 
 ## 🌐 Socials:
