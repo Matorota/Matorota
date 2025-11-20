@@ -1,14 +1,12 @@
 ## About Me
 
-**Junior Software Developer** 
+**Software Developer** 
 
 - Specializes in full-stack web development  
 - Experience with desktop applications and relational databases  
 - Exploring game development and interactive systems  
 - Passionate about learning through hands-on projects and practical challenges  
 - Continuously improving by experimenting with new tools, frameworks, and architectures  
-
-I work on both academic and personal projects. Continuously improving by experimenting with new tools, frameworks, and architectures
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wvDUcPTX) 
